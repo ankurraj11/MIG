@@ -1,1 +1,3 @@
 # MIG
+
+Maths in Governance
